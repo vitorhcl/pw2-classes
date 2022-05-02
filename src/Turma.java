@@ -1,7 +1,6 @@
-
 public class Turma {
-	String periodo;
-	int serie;
-	String sigla;
-	String tipo;
+	public String periodo;
+	public int serie;
+	public String sigla;
+	public String tipo;
 }
