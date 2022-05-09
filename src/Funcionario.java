@@ -1,5 +1,6 @@
 
 public class Funcionario {
-	String cargo;
-	double salario;
+	public String cargo;
+	public double salario;
+	public Endereco end;
 }
