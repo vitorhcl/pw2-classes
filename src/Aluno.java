@@ -1,7 +1,7 @@
 
 public class Aluno {
-	String nome;
-	String rg;
-	String dataNasc;
-	
+	public String nome;
+	public String rg;
+	public String dataNasc;
+	public Turma turma;
 }
